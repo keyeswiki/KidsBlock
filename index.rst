@@ -1,7 +1,7 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: keyes docs
+   :caption: Kidsblock 图形化编程软件
 
    README.md
    docs/1. KidsBlock软件安装说明书--Windows.md
