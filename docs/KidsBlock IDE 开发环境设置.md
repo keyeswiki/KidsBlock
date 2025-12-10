@@ -88,3 +88,11 @@
 ![888888888888](media/18.gif)
 
 注意：需要进行驱动安装的前提是开发板识别不到，如果可以识别到开发板，则在驱动安装过程中任何报错都可以忽略。
+
+## 6、KidsBlock 软件安装失败的故障排除指南
+
+如果在软件安装过程中出现以下错误，请按照视频说明重新安装软件。
+
+![1](./media/19.jpg)
+
+<iframe src="https://www.bilibili.com/video/BV1MD2UBiEpu?t=55.7" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
